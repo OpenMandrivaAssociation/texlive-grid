@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-grid
 Version:	1.0
-Release:	2
+Release:	3
 Summary:	Grid typesetting in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grid
